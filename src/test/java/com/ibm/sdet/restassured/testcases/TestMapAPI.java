@@ -36,8 +36,8 @@ public class TestMapAPI{
 		
 		RestAssured.baseURI = "https://rahulshettyacademy.com";
 		
-		//addNewPlace();
-		getPlace();
+		addNewPlace();
+		//getPlace();
 		
 		
 
